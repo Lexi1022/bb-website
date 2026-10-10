@@ -1,0 +1,190 @@
+{
+  "files": [
+    {
+      "path": "EXPORT_CHECKS.json",
+      "bytes": 64867,
+      "sha256": "0da3413544c394e51d99f399e78d1f2b85dfbacdf0eec8fb3112d980232bb4bc"
+    },
+    {
+      "path": "FILE_MANIFEST.json",
+      "bytes": null,
+      "sha256": null
+    },
+    {
+      "path": "FILE_MANIFEST.txt",
+      "bytes": null,
+      "sha256": null
+    },
+    {
+      "path": "README.md",
+      "bytes": 2631,
+      "sha256": "5aa2eb340921e2ee5167a5080638b1ce66fff1f35f8acad18ab5055d86590145"
+    },
+    {
+      "path": "_astro/en.QYLvCg3O.css",
+      "bytes": 19563,
+      "sha256": "451ed5615d5a19b8a07f7408167d1e5b45fd792f1f095f4c44958b468e75b6e5"
+    },
+    {
+      "path": "astro.config.mjs",
+      "bytes": 96,
+      "sha256": "8cc874cd790133ccf619f50ada404d3b52839f306661f1eae15207355f0af2e8"
+    },
+    {
+      "path": "brand-logo.png",
+      "bytes": 6868,
+      "sha256": "68fa24f3aa26f9af054094bac91d4bc38de5fae39a31c00735ce53406ca3fcc2"
+    },
+    {
+      "path": "en/index.html",
+      "bytes": 22044,
+      "sha256": "217e4b5d0cd2c8990b8451907a78684abe444d3e5c5debb6f9c276505bbda809"
+    },
+    {
+      "path": "factory-care.webp",
+      "bytes": 102786,
+      "sha256": "5dfa5ee16bb9989ef1eb557f3f8a6b859585d57e247bdfa32e658bbb8f593532"
+    },
+    {
+      "path": "factory-paper.webp",
+      "bytes": 280946,
+      "sha256": "ab9757c375f32ce7e3a976eadaea86546f09dbd184a4a710f85a151bdf7f447b"
+    },
+    {
+      "path": "factory-production.webp",
+      "bytes": 460958,
+      "sha256": "cc7163880fd1aacf728dbe70b22b2dccb5e8462500536cb9cfee0a5f69b6187c"
+    },
+    {
+      "path": "factory-quality.webp",
+      "bytes": 263860,
+      "sha256": "ce3a19d3ebcdfc43b203066906d4dfff6133097268f5386569f87d09135fc847"
+    },
+    {
+      "path": "factory-warehouse.webp",
+      "bytes": 453620,
+      "sha256": "67fc8150bca1f45b222c845a1e8b6623ee937f47800f2ce6d56843ffc1723802"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 185,
+      "sha256": "8957cc41f5b8d08c39ce767c4ddb87e05efa3bf812f44a4a7abd8b9287245107"
+    },
+    {
+      "path": "forest-canopy.webp",
+      "bytes": 626224,
+      "sha256": "a99c3717524a381454f8b0c1b95930d48f3c8a254f0c6dff14e436f310be6feb"
+    },
+    {
+      "path": "hotel-product.webp",
+      "bytes": 77504,
+      "sha256": "d06e6f2af751bbbf42d0d1316cbe9933de7f125c24c3feace993674be863ec07"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21523,
+      "sha256": "ef64da3046ab0803756b5bd76fdd1c4cd68e2059023e263f9afdcea683dc606f"
+    },
+    {
+      "path": "lotion-product.webp",
+      "bytes": 121204,
+      "sha256": "e4d940dc9b3052b0c56712d550c98f96827b1851a62e1e578b2a638b7a06af9f"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 172434,
+      "sha256": "1fcd63c39fdc1b5c789f618fe72d40bbfbba8a49587ae42ba457e6f0d7587bab"
+    },
+    {
+      "path": "package.json",
+      "bytes": 219,
+      "sha256": "f3929c195431c5caa25ce7acd238b219a92e5e7760e60b9c43b7deb40ad4575a"
+    },
+    {
+      "path": "public/brand-logo.png",
+      "bytes": 6868,
+      "sha256": "68fa24f3aa26f9af054094bac91d4bc38de5fae39a31c00735ce53406ca3fcc2"
+    },
+    {
+      "path": "public/factory-care.webp",
+      "bytes": 102786,
+      "sha256": "5dfa5ee16bb9989ef1eb557f3f8a6b859585d57e247bdfa32e658bbb8f593532"
+    },
+    {
+      "path": "public/factory-paper.webp",
+      "bytes": 280946,
+      "sha256": "ab9757c375f32ce7e3a976eadaea86546f09dbd184a4a710f85a151bdf7f447b"
+    },
+    {
+      "path": "public/factory-production.webp",
+      "bytes": 460958,
+      "sha256": "cc7163880fd1aacf728dbe70b22b2dccb5e8462500536cb9cfee0a5f69b6187c"
+    },
+    {
+      "path": "public/factory-quality.webp",
+      "bytes": 263860,
+      "sha256": "ce3a19d3ebcdfc43b203066906d4dfff6133097268f5386569f87d09135fc847"
+    },
+    {
+      "path": "public/factory-warehouse.webp",
+      "bytes": 453620,
+      "sha256": "67fc8150bca1f45b222c845a1e8b6623ee937f47800f2ce6d56843ffc1723802"
+    },
+    {
+      "path": "public/favicon.svg",
+      "bytes": 185,
+      "sha256": "8957cc41f5b8d08c39ce767c4ddb87e05efa3bf812f44a4a7abd8b9287245107"
+    },
+    {
+      "path": "public/forest-canopy.webp",
+      "bytes": 626224,
+      "sha256": "a99c3717524a381454f8b0c1b95930d48f3c8a254f0c6dff14e436f310be6feb"
+    },
+    {
+      "path": "public/hotel-product.webp",
+      "bytes": 77504,
+      "sha256": "d06e6f2af751bbbf42d0d1316cbe9933de7f125c24c3feace993674be863ec07"
+    },
+    {
+      "path": "public/lotion-product.webp",
+      "bytes": 121204,
+      "sha256": "e4d940dc9b3052b0c56712d550c98f96827b1851a62e1e578b2a638b7a06af9f"
+    },
+    {
+      "path": "public/tissue-still-life.png",
+      "bytes": 2063382,
+      "sha256": "2fb1d697dde78dd75c6a53ca016261e1d5d66ea245ab1cb8b69c7279b4e84a01"
+    },
+    {
+      "path": "public/tree-light.webp",
+      "bytes": 202968,
+      "sha256": "df869b1711851ba8db4de269e5a4a11815247fdd78d5bb7bd3e757ea94eac7bc"
+    },
+    {
+      "path": "site-metadata.json",
+      "bytes": 917,
+      "sha256": "9f420db3a8c192b5551a632a6fca8c3dfdade7c9cf8a3975ac0cc7d57dfb9b99"
+    },
+    {
+      "path": "src/pages/en.astro",
+      "bytes": 40446,
+      "sha256": "ee6b8830f49a9a43e7a9dd318c0183555b73f98849c61846f223870f5539b56d"
+    },
+    {
+      "path": "src/pages/index.astro",
+      "bytes": 39984,
+      "sha256": "71672a00ac7f40e3138cc786389f88fd10b4cbc796e3ad026bb27c76c8f57eff"
+    },
+    {
+      "path": "tissue-still-life.png",
+      "bytes": 2063382,
+      "sha256": "2fb1d697dde78dd75c6a53ca016261e1d5d66ea245ab1cb8b69c7279b4e84a01"
+    },
+    {
+      "path": "tree-light.webp",
+      "bytes": 202968,
+      "sha256": "df869b1711851ba8db4de269e5a4a11815247fdd78d5bb7bd3e757ea94eac7bc"
+    }
+  ],
+  "self_reference_note": "Inventory paths include both manifest files; their size and hash are null to avoid recursive hashing."
+}

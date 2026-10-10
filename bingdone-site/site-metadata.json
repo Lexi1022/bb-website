@@ -1,0 +1,20 @@
+{
+  "title": "Bingdone 兵敦敦纸业 · 企业官网",
+  "languages": {
+    "zh-CN": "index.html",
+    "en": "en/index.html"
+  },
+  "framework": "Astro",
+  "output": "static",
+  "published_version": 5,
+  "business_contact": {
+    "phone": "020-36933823",
+    "email": "bingdone123@qq.com",
+    "address": "广州市花都区花山镇启源大道4号之7新碳谷产业园A栋5楼"
+  },
+  "fonts": "System font stack only; no bundled or remote font files.",
+  "data": "Product data is embedded in the HTML and Astro pages. Inquiry briefs are generated locally; no stored submissions or customer database.",
+  "documents": "No separate website documents or downloadable product documents exist in this version.",
+  "extra_assets": "All public assets are retained, including unused concept images.",
+  "secrets": "Hosting identity, Git metadata, credentials, environment files and local runtime state are excluded."
+}
